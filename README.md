@@ -14,9 +14,13 @@ Activity 4
 Activity 5
 
 Before Rebase
+Develop Branch
+
 ![before rebase](https://github.com/lchoi31/ECE444-F2023-Assignment1/assets/77515168/bd315a28-6294-4452-95ef-0507d9cb9492)
 
-![image](https://github.com/lchoi31/ECE444-F2023-Assignment1/assets/77515168/dd02729e-8b7a-439e-8d9c-fec1f11344a2)
+Rebase Branch
+
+![rebase branch](https://github.com/lchoi31/ECE444-F2023-Assignment1/assets/77515168/3cda945a-8ce4-4241-92ee-7cc9b93418f8)
 
 After Rebase
 ![rebase](https://github.com/lchoi31/ECE444-F2023-Assignment1/assets/77515168/36099e1d-b504-4b87-b1e7-ad20df93c55b)
