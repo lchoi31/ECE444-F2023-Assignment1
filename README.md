@@ -12,4 +12,11 @@ Activity 4
 ![utils_tests](https://github.com/lchoi31/ECE444-F2023-Assignment1/assets/77515168/57a4cd14-71a0-4c80-aee1-fe6881dc70d8)
 
 Activity 5
+
+Before Rebase
+![before rebase](https://github.com/lchoi31/ECE444-F2023-Assignment1/assets/77515168/bd315a28-6294-4452-95ef-0507d9cb9492)
+
+![image](https://github.com/lchoi31/ECE444-F2023-Assignment1/assets/77515168/dd02729e-8b7a-439e-8d9c-fec1f11344a2)
+
+After Rebase
 ![rebase](https://github.com/lchoi31/ECE444-F2023-Assignment1/assets/77515168/36099e1d-b504-4b87-b1e7-ad20df93c55b)
