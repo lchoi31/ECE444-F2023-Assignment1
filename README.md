@@ -14,6 +14,7 @@ Activity 4
 Activity 5
 
 Before Rebase
+
 Develop Branch
 
 ![before rebase](https://github.com/lchoi31/ECE444-F2023-Assignment1/assets/77515168/bd315a28-6294-4452-95ef-0507d9cb9492)
